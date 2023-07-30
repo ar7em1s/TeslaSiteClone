@@ -1,0 +1,117 @@
+h1 {
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  display: block;
+  margin: 0;
+  line-height: 160px
+}
+
+.ending {
+  color: #3d3d3d;
+  position: relative;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+  top: 630px;
+  font-size: 13px;
+ 
+}
+
+body {
+background-image:
+url(https://i.imgur.com/S6H96vF.jpg);
+width: 100%;
+background-repeat: no-repeat;
+background-size: 100%
+  }
+
+.topnav {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-top: -30px;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #393c41;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #f2f2f2;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  color: #292929;
+}
+
+.FAQ-icon  {
+  position: absolute;
+  top: 4px;
+  right: 10px
+}
+
+.region-icon  {
+  position: absolute;
+  top: 4px;
+  right: 70px
+}
+
+.account-icon  {
+  position: absolute;
+  top: 5px;
+  right: 41px
+}
+
+.custom-order {
+  background-color: lightgrey;
+  color: #e8e8e7;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: none;
+  width: 110px;
+  padding: 11px;
+  padding-right: 75px;
+  padding-left: 75px;
+  margin: 30px;
+  background-color: #3d3f44;
+  border-radius: 5px;
+}
+
+.learn-more {
+  background-color: lightgrey;
+  color: #3d3f44;
+  text-align: center;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  font-weight: bold;
+  width: 110px;
+  padding: 11px;
+  padding-right: 75px;
+  padding-left: 75px;
+  margin: 30px;
+  background-color: #e8e8e7;
+  border-radius: 5px;
+}
+
+.lownav {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin-top: 520px;
+}
+
