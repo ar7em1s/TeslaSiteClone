@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   display: block;
   margin: 0;
-  line-height: 160px
+  line-height: 160px;
 }
 
 .ending {
@@ -11,18 +11,16 @@ h1 {
   position: relative;
   font-family: Helvetica, sans-serif;
   text-align: center;
-  top: 630px;
+  top: 700px;
   font-size: 13px;
- 
 }
 
 body {
-background-image:
-url(https://i.imgur.com/S6H96vF.jpg);
-width: 100%;
-background-repeat: no-repeat;
-background-size: 100%
-  }
+  background-image: url(images/ModelY_88.jpg);
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
 
 .topnav {
   font-family: Arial, Helvetica, sans-serif;
@@ -56,22 +54,22 @@ background-size: 100%
   color: #292929;
 }
 
-.FAQ-icon  {
+.FAQ-icon {
   position: absolute;
   top: 4px;
-  right: 10px
+  right: 10px;
 }
 
-.region-icon  {
+.region-icon {
   position: absolute;
   top: 4px;
-  right: 70px
+  right: 70px;
 }
 
-.account-icon  {
+.account-icon {
   position: absolute;
   top: 5px;
-  right: 41px
+  right: 41px;
 }
 
 .custom-order {
@@ -112,6 +110,5 @@ background-size: 100%
   align-items: center;
   justify-content: center;
   padding: 0;
-  margin-top: 520px;
+  margin-top: 580px;
 }
-
